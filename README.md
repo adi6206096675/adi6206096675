@@ -1,5 +1,6 @@
 [![ANVIL Sentinel](https://github.com/adi6206096675/ANVIL/actions/workflows/anvil-sec.yml/badge.svg)](https://github.com/adi6206096675/ANVIL/actions/workflows/anvil-sec.yml)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0000--5219--9849-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0000-5219-9849)
+[![Scholar](https://img.shields.io/badge/Google-Scholar-4285F4?logo=googlescholar&logoColor=white)](YOUR_SCHOLAR_PROFILE_URL)
 
 # Hi, I'm a Systems Architect & Full-Stack Engineer 🧠💻
 
